@@ -1,0 +1,2121 @@
+{
+  "aatrox": {
+    "top": {
+      "weakAgainst": [
+        "Dr. Mundo",
+        "Darius"
+      ]
+    }
+  },
+  "ahri": {
+    "mid": {
+      "weakAgainst": [
+        "Ryze",
+        "Hwei",
+        "Yone",
+        "Malzahar"
+      ]
+    }
+  },
+  "akali": {
+    "mid": {
+      "weakAgainst": [
+        "Irelia"
+      ]
+    }
+  },
+  "akshan": {
+    "mid": {
+      "weakAgainst": [
+        "Yasuo",
+        "Zed",
+        "Irelia",
+        "Fizz",
+        "Katarina"
+      ]
+    },
+    "top": {
+      "weakAgainst": [
+        "Malphite",
+        "Shen",
+        "Poppy",
+        "Ornn"
+      ]
+    }
+  },
+  "alistar": {
+    "sup": {
+      "weakAgainst": [
+        "Yuumi",
+        "Nautilus"
+      ]
+    }
+  },
+  "ambessa": {
+    "top": {
+      "weakAgainst": [
+        "Gwen",
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Riven"
+      ]
+    },
+    "mid": {
+      "weakAgainst": [
+        "Sylas",
+        "Galio",
+        "Lissandra"
+      ]
+    }
+  },
+  "amumu": {
+    "jng": {
+      "weakAgainst": [
+        "Karthus",
+        "Graves",
+        "Nidalee",
+        "Kindred",
+        "Lillia"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Morgana",
+        "Lux",
+        "Brand",
+        "Vel'Koz"
+      ]
+    }
+  },
+  "anivia": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Kassadin",
+        "Yasuo",
+        "Xerath"
+      ]
+    }
+  },
+  "annie": {
+    "mid": {
+      "weakAgainst": [
+        "Xerath",
+        "Vel'Koz",
+        "Lux",
+        "Syndra",
+        "Orianna"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Thresh",
+        "Blitzcrank",
+        "Nautilus",
+        "Leona"
+      ]
+    }
+  },
+  "aphelios": {
+    "adc": {
+      "weakAgainst": [
+        "Vayne",
+        "Kai&#x27;Sa",
+        "Sivir",
+        "Tristana",
+        "Yunara"
+      ]
+    }
+  },
+  "ashe": {
+    "adc": {
+      "weakAgainst": [
+        "Aphelios",
+        "Sivir",
+        "Lucian"
+      ]
+    }
+  },
+  "aurelionsol": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Kassadin",
+        "Katarina",
+        "Yasuo"
+      ]
+    }
+  },
+  "aurora": {
+    "mid": {
+      "weakAgainst": [
+        "Syndra",
+        "Orianna",
+        "Zoe",
+        "Lux"
+      ]
+    },
+    "top": {
+      "weakAgainst": [
+        "Irelia",
+        "Jax",
+        "Fiora",
+        "Camille"
+      ]
+    }
+  },
+  "azir": {
+    "mid": {
+      "weakAgainst": [
+        "Yasuo"
+      ]
+    }
+  },
+  "bard": {
+    "sup": {
+      "weakAgainst": [
+        "Lux",
+        "Seraphine",
+        "Rakan"
+      ]
+    }
+  },
+  "belveth": {
+    "jng": {
+      "weakAgainst": [
+        "Rammus",
+        "Poppy",
+        "Jax",
+        "Warwick",
+        "Elise"
+      ]
+    }
+  },
+  "blitzcrank": {
+    "sup": {
+      "weakAgainst": [
+        "Xerath",
+        "Yuumi"
+      ]
+    }
+  },
+  "brand": {
+    "sup": {
+      "weakAgainst": [
+        "Xerath",
+        "Vel'Koz",
+        "Lux",
+        "Nami",
+        "Sona"
+      ]
+    },
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin"
+      ]
+    }
+  },
+  "braum": {
+    "sup": {
+      "weakAgainst": [
+        "Blitzcrank"
+      ]
+    }
+  },
+  "briar": {
+    "jng": {
+      "weakAgainst": [
+        "Rammus",
+        "Warwick",
+        "Elise",
+        "Graves",
+        "Kindred"
+      ]
+    }
+  },
+  "caitlyn": {
+    "adc": {
+      "weakAgainst": [
+        "Yunara",
+        "Zeri",
+        "Lucian",
+        "Aphelios",
+        "Corki"
+      ]
+    }
+  },
+  "camille": {
+    "top": {
+      "weakAgainst": [
+        "Jax",
+        "Fiora",
+        "Renekton",
+        "Darius",
+        "Volibear"
+      ]
+    },
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kindred"
+      ]
+    }
+  },
+  "cassiopeia": {
+    "mid": {
+      "weakAgainst": [
+        "Xerath",
+        "Vel'Koz",
+        "Syndra",
+        "Zoe",
+        "Fizz"
+      ]
+    },
+    "top": {
+      "weakAgainst": [
+        "Irelia",
+        "Jax",
+        "Camille"
+      ]
+    }
+  },
+  "chogath": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Vayne",
+        "Gwen",
+        "Camille",
+        "Darius"
+      ]
+    },
+    "mid": {
+      "weakAgainst": [
+        "Syndra",
+        "Vel'Koz",
+        "Xerath"
+      ]
+    }
+  },
+  "corki": {
+    "adc": {
+      "weakAgainst": [
+        "Vayne",
+        "Lucian",
+        "Ezreal"
+      ]
+    }
+  },
+  "darius": {
+    "top": {
+      "weakAgainst": [
+        "Vayne",
+        "Quinn",
+        "Kennen",
+        "Teemo",
+        "Gnar"
+      ]
+    }
+  },
+  "diana": {
+    "jng": {
+      "weakAgainst": [
+        "Rengar",
+        "Jayce"
+      ]
+    }
+  },
+  "draven": {
+    "adc": {
+      "weakAgainst": [
+        "Varus",
+        "Kai&#x27;Sa",
+        "Aphelios",
+        "Yunara",
+        "Twitch"
+      ]
+    }
+  },
+  "drmundo": {},
+  "ekko": {
+    "mid": {
+      "weakAgainst": [
+        "Syndra",
+        "Lissandra",
+        "Galio",
+        "Malzahar"
+      ]
+    },
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Rengar"
+      ]
+    }
+  },
+  "elise": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kindred",
+        "Kha'Zix"
+      ]
+    }
+  },
+  "evelynn": {
+    "jng": {
+      "weakAgainst": [
+        "Lee Sin",
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Rengar"
+      ]
+    }
+  },
+  "ezreal": {
+    "adc": {
+      "weakAgainst": [
+        "Draven",
+        "Varus",
+        "Yunara",
+        "Caitlyn",
+        "Xayah"
+      ]
+    }
+  },
+  "fiddlesticks": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Rengar",
+        "Lee Sin"
+      ]
+    }
+  },
+  "fiora": {
+    "top": {
+      "weakAgainst": [
+        "Aatrox"
+      ]
+    }
+  },
+  "fizz": {
+    "mid": {
+      "weakAgainst": [
+        "Galio",
+        "Lissandra",
+        "Vladimir",
+        "Malzahar"
+      ]
+    }
+  },
+  "galio": {
+    "mid": {
+      "weakAgainst": [
+        "Ryze",
+        "Diana"
+      ]
+    }
+  },
+  "gangplank": {
+    "top": {
+      "weakAgainst": [
+        "Ambessa",
+        "Garen",
+        "Renekton"
+      ]
+    }
+  },
+  "garen": {
+    "top": {
+      "weakAgainst": [
+        "K&#x27;Sante",
+        "Riven"
+      ]
+    }
+  },
+  "gnar": {
+    "top": {
+      "weakAgainst": [
+        "K&#x27;Sante"
+      ]
+    }
+  },
+  "gragas": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred"
+      ]
+    },
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Irelia"
+      ]
+    }
+  },
+  "graves": {
+    "jng": {
+      "weakAgainst": [
+        "Jayce"
+      ]
+    }
+  },
+  "gwen": {
+    "top": {
+      "weakAgainst": [
+        "K&#x27;Sante",
+        "Dr. Mundo"
+      ]
+    }
+  },
+  "hecarim": {
+    "jng": {
+      "weakAgainst": [
+        "Naafiri"
+      ]
+    }
+  },
+  "heimerdinger": {
+    "mid": {
+      "weakAgainst": [
+        "Syndra",
+        "Xerath",
+        "Vel'Koz",
+        "Zoe"
+      ]
+    },
+    "top": {
+      "weakAgainst": [
+        "Irelia",
+        "Jax",
+        "Fiora"
+      ]
+    }
+  },
+  "hwei": {
+    "mid": {
+      "weakAgainst": [
+        "Ryze"
+      ]
+    }
+  },
+  "illaoi": {
+    "top": {
+      "weakAgainst": [
+        "Mordekaiser",
+        "Heimerdinger",
+        "Vayne",
+        "Quinn"
+      ]
+    }
+  },
+  "irelia": {
+    "top": {
+      "weakAgainst": [
+        "Gnar"
+      ]
+    },
+    "mid": {
+      "weakAgainst": [
+        "Zed"
+      ]
+    }
+  },
+  "ivern": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Rengar",
+        "Lee Sin"
+      ]
+    }
+  },
+  "janna": {
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank"
+      ]
+    }
+  },
+  "jarvaniv": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred"
+      ]
+    }
+  },
+  "jax": {
+    "top": {
+      "weakAgainst": [
+        "Volibear",
+        "Irelia",
+        "Varus",
+        "Yone"
+      ]
+    }
+  },
+  "jayce": {
+    "top": {
+      "weakAgainst": [
+        "Irelia",
+        "Jax",
+        "Camille",
+        "Fiora",
+        "Malphite"
+      ]
+    },
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Irelia"
+      ]
+    }
+  },
+  "jhin": {
+    "adc": {
+      "weakAgainst": [
+        "Ezreal",
+        "Corki",
+        "Aphelios",
+        "Yunara",
+        "Sivir"
+      ]
+    }
+  },
+  "jinx": {
+    "adc": {
+      "weakAgainst": [
+        "Zeri",
+        "Yunara",
+        "Samira",
+        "Kai&#x27;Sa",
+        "Lucian"
+      ]
+    }
+  },
+  "kaisa": {
+    "adc": {
+      "weakAgainst": [
+        "Ezreal",
+        "Jhin",
+        "Varus",
+        "Yunara"
+      ]
+    }
+  },
+  "kalista": {
+    "adc": {
+      "weakAgainst": [
+        "Caitlyn",
+        "Ashe",
+        "Varus",
+        "Jhin",
+        "Tristana"
+      ]
+    }
+  },
+  "karma": {
+    "sup": {
+      "weakAgainst": [
+        "Lux",
+        "Pantheon",
+        "Xerath"
+      ]
+    },
+    "mid": {
+      "weakAgainst": [
+        "Zed",
+        "Yasuo",
+        "Fizz",
+        "Kassadin"
+      ]
+    }
+  },
+  "karthus": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Rengar",
+        "Lee Sin"
+      ]
+    },
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin"
+      ]
+    }
+  },
+  "kassadin": {
+    "mid": {
+      "weakAgainst": [
+        "Ryze"
+      ]
+    }
+  },
+  "katarina": {
+    "mid": {
+      "weakAgainst": [
+        "Syndra"
+      ]
+    }
+  },
+  "kayle": {
+    "top": {
+      "weakAgainst": [
+        "Irelia",
+        "Jax",
+        "Camille",
+        "Fiora",
+        "Pantheon"
+      ]
+    }
+  },
+  "kayn": {
+    "jng": {
+      "weakAgainst": [
+        "Rengar"
+      ]
+    }
+  },
+  "kennen": {
+    "top": {
+      "weakAgainst": [
+        "Irelia",
+        "Jax",
+        "Camille",
+        "Fiora",
+        "Yasuo"
+      ]
+    }
+  },
+  "khazix": {
+    "jng": {
+      "weakAgainst": [
+        "Zed",
+        "Qiyana",
+        "Jayce",
+        "Viego"
+      ]
+    }
+  },
+  "kindred": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Rengar",
+        "Lee Sin"
+      ]
+    }
+  },
+  "kled": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    }
+  },
+  "kogmaw": {
+    "adc": {
+      "weakAgainst": [
+        "Draven",
+        "Lucian",
+        "Tristana",
+        "Kai'Sa",
+        "Vayne"
+      ]
+    }
+  },
+  "ksante": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    }
+  },
+  "leblanc": {
+    "mid": {
+      "weakAgainst": [
+        "Orianna"
+      ]
+    }
+  },
+  "leesin": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Elise"
+      ]
+    }
+  },
+  "leona": {
+    "sup": {
+      "weakAgainst": [
+        "Nautilus"
+      ]
+    }
+  },
+  "lillia": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Rengar",
+        "Lee Sin"
+      ]
+    }
+  },
+  "lissandra": {
+    "mid": {
+      "weakAgainst": [
+        "Yasuo"
+      ]
+    }
+  },
+  "lucian": {
+    "adc": {
+      "weakAgainst": [
+        "Yunara",
+        "Ezreal",
+        "Varus"
+      ]
+    }
+  },
+  "lulu": {
+    "sup": {
+      "weakAgainst": [
+        "Pantheon",
+        "Brand"
+      ]
+    }
+  },
+  "lux": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank"
+      ]
+    }
+  },
+  "malphite": {
+    "top": {
+      "weakAgainst": [
+        "Fiora"
+      ]
+    },
+    "mid": {
+      "weakAgainst": [
+        "Zed"
+      ]
+    }
+  },
+  "malzahar": {
+    "mid": {
+      "weakAgainst": [
+        "Sylas"
+      ]
+    }
+  },
+  "maokai": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Brand",
+        "Vel'Koz",
+        "Xerath",
+        "Zyra"
+      ]
+    }
+  },
+  "masteryi": {
+    "jng": {
+      "weakAgainst": [
+        "Rammus",
+        "Jax",
+        "Warwick",
+        "Elise",
+        "Graves"
+      ]
+    }
+  },
+  "mel": {
+    "mid": {
+      "weakAgainst": [
+        "Syndra",
+        "Orianna",
+        "Zoe",
+        "Lux",
+        "Xerath"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank"
+      ]
+    }
+  },
+  "milio": {
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank",
+        "Pyke"
+      ]
+    }
+  },
+  "missfortune": {
+    "adc": {
+      "weakAgainst": [
+        "Sivir",
+        "Ezreal",
+        "Caitlyn",
+        "Jhin",
+        "Ashe"
+      ]
+    }
+  },
+  "mordekaiser": {
+    "top": {
+      "weakAgainst": [
+        "Renekton"
+      ]
+    }
+  },
+  "morgana": {
+    "sup": {
+      "weakAgainst": [
+        "Alistar",
+        "Nautilus"
+      ]
+    }
+  },
+  "naafiri": {
+    "mid": {
+      "weakAgainst": [
+        "Malzahar",
+        "Lissandra",
+        "Galio",
+        "Annie"
+      ]
+    }
+  },
+  "nami": {
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank",
+        "Pyke"
+      ]
+    }
+  },
+  "nasus": {
+    "top": {
+      "weakAgainst": [
+        "Darius",
+        "Teemo",
+        "Vayne",
+        "Quinn",
+        "Gnar"
+      ]
+    }
+  },
+  "nautilus": {
+    "sup": {
+      "weakAgainst": [
+        "Morgana",
+        "Lux",
+        "Brand",
+        "Vel'Koz",
+        "Zyra"
+      ]
+    }
+  },
+  "neeko": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank"
+      ]
+    }
+  },
+  "nidalee": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Kha'Zix",
+        "Rengar",
+        "Lee Sin",
+        "Elise"
+      ]
+    }
+  },
+  "nilah": {
+    "adc": {
+      "weakAgainst": [
+        "Caitlyn",
+        "Ashe",
+        "Varus",
+        "Jhin",
+        "Ezreal"
+      ]
+    }
+  },
+  "nocturne": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Elise"
+      ]
+    }
+  },
+  "nunu": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Elise"
+      ]
+    }
+  },
+  "olaf": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred"
+      ]
+    },
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen"
+      ]
+    }
+  },
+  "orianna": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    }
+  },
+  "ornn": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    }
+  },
+  "pantheon": {
+    "mid": {
+      "weakAgainst": [
+        "Malzahar",
+        "Lissandra",
+        "Galio",
+        "Vladimir"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Morgana",
+        "Lux",
+        "Brand",
+        "Vel'Koz"
+      ]
+    }
+  },
+  "poppy": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    },
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred"
+      ]
+    }
+  },
+  "pyke": {
+    "sup": {
+      "weakAgainst": [
+        "Morgana",
+        "Lux",
+        "Brand",
+        "Vel'Koz",
+        "Zyra"
+      ]
+    }
+  },
+  "qiyana": {
+    "mid": {
+      "weakAgainst": [
+        "Malzahar",
+        "Lissandra",
+        "Galio",
+        "Annie",
+        "Vladimir"
+      ]
+    }
+  },
+  "quinn": {
+    "top": {
+      "weakAgainst": [
+        "Malphite",
+        "Irelia",
+        "Jax",
+        "Camille",
+        "Fiora"
+      ]
+    }
+  },
+  "rakan": {
+    "sup": {
+      "weakAgainst": [
+        "Morgana",
+        "Lux",
+        "Brand",
+        "Vel'Koz",
+        "Zyra"
+      ]
+    }
+  },
+  "rammus": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Lillia"
+      ]
+    }
+  },
+  "reksai": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Elise"
+      ]
+    }
+  },
+  "rell": {
+    "sup": {
+      "weakAgainst": [
+        "Morgana",
+        "Lux",
+        "Brand",
+        "Vel'Koz",
+        "Zyra"
+      ]
+    }
+  },
+  "renata": {
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank",
+        "Pyke"
+      ]
+    }
+  },
+  "renekton": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Kennen"
+      ]
+    }
+  },
+  "rengar": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Elise"
+      ]
+    },
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen"
+      ]
+    }
+  },
+  "riven": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Poppy",
+        "Renekton"
+      ]
+    }
+  },
+  "rumble": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    },
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin"
+      ]
+    }
+  },
+  "ryze": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    },
+    "top": {
+      "weakAgainst": [
+        "Irelia",
+        "Jax",
+        "Camille",
+        "Fiora"
+      ]
+    }
+  },
+  "samira": {
+    "adc": {
+      "weakAgainst": [
+        "Caitlyn",
+        "Ashe",
+        "Varus",
+        "Jhin",
+        "Ezreal"
+      ]
+    }
+  },
+  "sejuani": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Lillia"
+      ]
+    }
+  },
+  "senna": {
+    "adc": {
+      "weakAgainst": [
+        "Draven",
+        "Lucian",
+        "Tristana",
+        "Kai'Sa"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank"
+      ]
+    }
+  },
+  "seraphine": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank"
+      ]
+    }
+  },
+  "sett": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Morgana",
+        "Lux",
+        "Brand",
+        "Vel'Koz"
+      ]
+    }
+  },
+  "shaco": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Rengar",
+        "Lee Sin"
+      ]
+    }
+  },
+  "shen": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    }
+  },
+  "shyvana": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Elise"
+      ]
+    }
+  },
+  "singed": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Vayne"
+      ]
+    }
+  },
+  "sion": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    }
+  },
+  "sivir": {
+    "adc": {
+      "weakAgainst": [
+        "Draven",
+        "Lucian",
+        "Tristana",
+        "Kai'Sa",
+        "Vayne"
+      ]
+    }
+  },
+  "skarner": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Elise"
+      ]
+    }
+  },
+  "smolder": {
+    "adc": {
+      "weakAgainst": [
+        "Draven",
+        "Lucian",
+        "Tristana",
+        "Kai'Sa",
+        "Vayne"
+      ]
+    }
+  },
+  "sona": {
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank",
+        "Pyke"
+      ]
+    }
+  },
+  "soraka": {
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank",
+        "Pyke"
+      ]
+    }
+  },
+  "swain": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Morgana",
+        "Lux",
+        "Brand",
+        "Vel'Koz"
+      ]
+    }
+  },
+  "sylas": {
+    "mid": {
+      "weakAgainst": [
+        "Malzahar",
+        "Lissandra",
+        "Galio",
+        "Vladimir"
+      ]
+    },
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Rengar"
+      ]
+    }
+  },
+  "syndra": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    }
+  },
+  "tahmkench": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Morgana",
+        "Lux",
+        "Brand",
+        "Vel'Koz"
+      ]
+    }
+  },
+  "taliyah": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    },
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Rengar"
+      ]
+    }
+  },
+  "talon": {
+    "mid": {
+      "weakAgainst": [
+        "Malzahar",
+        "Lissandra",
+        "Galio",
+        "Annie",
+        "Vladimir"
+      ]
+    }
+  },
+  "taric": {
+    "sup": {
+      "weakAgainst": [
+        "Morgana",
+        "Lux",
+        "Brand",
+        "Vel'Koz",
+        "Zyra"
+      ]
+    }
+  },
+  "teemo": {
+    "top": {
+      "weakAgainst": [
+        "Irelia",
+        "Jax",
+        "Camille",
+        "Fiora",
+        "Malphite"
+      ]
+    }
+  },
+  "thresh": {
+    "sup": {
+      "weakAgainst": [
+        "Morgana",
+        "Lux",
+        "Brand",
+        "Vel'Koz",
+        "Zyra"
+      ]
+    }
+  },
+  "tristana": {
+    "adc": {
+      "weakAgainst": [
+        "Caitlyn",
+        "Ashe",
+        "Varus",
+        "Jhin",
+        "Ezreal"
+      ]
+    }
+  },
+  "trundle": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    },
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred"
+      ]
+    }
+  },
+  "tryndamere": {
+    "top": {
+      "weakAgainst": [
+        "Malphite",
+        "Teemo",
+        "Quinn",
+        "Kennen",
+        "Gnar"
+      ]
+    }
+  },
+  "twistedfate": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    }
+  },
+  "twitch": {
+    "adc": {
+      "weakAgainst": [
+        "Draven",
+        "Lucian",
+        "Tristana",
+        "Kai'Sa",
+        "Caitlyn"
+      ]
+    },
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Rengar",
+        "Lee Sin"
+      ]
+    }
+  },
+  "udyr": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Elise"
+      ]
+    }
+  },
+  "urgot": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    }
+  },
+  "varus": {
+    "adc": {
+      "weakAgainst": [
+        "Sivir",
+        "Ezreal",
+        "Caitlyn",
+        "Jhin",
+        "Ashe"
+      ]
+    },
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin"
+      ]
+    }
+  },
+  "vayne": {
+    "adc": {
+      "weakAgainst": [
+        "Draven",
+        "Lucian",
+        "Caitlyn",
+        "Ashe",
+        "Jhin"
+      ]
+    },
+    "top": {
+      "weakAgainst": [
+        "Malphite",
+        "Teemo",
+        "Quinn",
+        "Kennen"
+      ]
+    }
+  },
+  "veigar": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    }
+  },
+  "velkoz": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank"
+      ]
+    }
+  },
+  "vex": {
+    "mid": {
+      "weakAgainst": [
+        "Syndra",
+        "Orianna",
+        "Zoe",
+        "Lux",
+        "Xerath"
+      ]
+    }
+  },
+  "vi": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Elise"
+      ]
+    }
+  },
+  "viego": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Rengar",
+        "Lee Sin"
+      ]
+    }
+  },
+  "viktor": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    }
+  },
+  "vladimir": {
+    "mid": {
+      "weakAgainst": [
+        "Malzahar",
+        "Kassadin",
+        "Fizz",
+        "Xerath"
+      ]
+    },
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Irelia"
+      ]
+    }
+  },
+  "volibear": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    },
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred"
+      ]
+    }
+  },
+  "warwick": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Elise"
+      ]
+    }
+  },
+  "monkeyking": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Renekton"
+      ]
+    },
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred"
+      ]
+    }
+  },
+  "xayah": {
+    "adc": {
+      "weakAgainst": [
+        "Caitlyn",
+        "Ashe",
+        "Varus",
+        "Jhin",
+        "Ezreal"
+      ]
+    }
+  },
+  "xerath": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank"
+      ]
+    }
+  },
+  "xinzhao": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Elise"
+      ]
+    }
+  },
+  "yasuo": {
+    "mid": {
+      "weakAgainst": [
+        "Malzahar",
+        "Annie",
+        "Lissandra",
+        "Pantheon"
+      ]
+    },
+    "top": {
+      "weakAgainst": [
+        "Malphite",
+        "Teemo",
+        "Quinn",
+        "Kennen"
+      ]
+    }
+  },
+  "yone": {
+    "mid": {
+      "weakAgainst": [
+        "Malzahar",
+        "Annie",
+        "Lissandra",
+        "Pantheon",
+        "Galio"
+      ]
+    },
+    "top": {
+      "weakAgainst": [
+        "Malphite",
+        "Teemo",
+        "Quinn",
+        "Kennen"
+      ]
+    }
+  },
+  "yorick": {
+    "top": {
+      "weakAgainst": [
+        "Fiora",
+        "Jax",
+        "Camille",
+        "Gwen",
+        "Mordekaiser"
+      ]
+    }
+  },
+  "yunara": {
+    "adc": {
+      "weakAgainst": [
+        "Ezreal",
+        "Draven",
+        "Sivir"
+      ]
+    }
+  },
+  "yuumi": {
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank",
+        "Pyke"
+      ]
+    }
+  },
+  "zaahen": {
+    "jng": {
+      "weakAgainst": [
+        "Sylas",
+        "Rengar"
+      ]
+    }
+  },
+  "zac": {
+    "jng": {
+      "weakAgainst": [
+        "Graves",
+        "Nidalee",
+        "Kha'Zix",
+        "Kindred",
+        "Elise"
+      ]
+    }
+  },
+  "zed": {
+    "mid": {
+      "weakAgainst": [
+        "Malzahar",
+        "Lissandra",
+        "Galio",
+        "Annie",
+        "Vladimir"
+      ]
+    }
+  },
+  "zeri": {
+    "adc": {
+      "weakAgainst": [
+        "Draven",
+        "Lucian",
+        "Tristana",
+        "Kai'Sa",
+        "Vayne"
+      ]
+    }
+  },
+  "ziggs": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    },
+    "adc": {
+      "weakAgainst": [
+        "Draven",
+        "Lucian",
+        "Tristana",
+        "Kai'Sa"
+      ]
+    }
+  },
+  "zilean": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    },
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank"
+      ]
+    }
+  },
+  "zoe": {
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin",
+        "Katarina"
+      ]
+    }
+  },
+  "zyra": {
+    "sup": {
+      "weakAgainst": [
+        "Leona",
+        "Nautilus",
+        "Thresh",
+        "Blitzcrank",
+        "Pyke"
+      ]
+    },
+    "mid": {
+      "weakAgainst": [
+        "Fizz",
+        "Zed",
+        "Yasuo",
+        "Kassadin"
+      ]
+    }
+  }
+}
