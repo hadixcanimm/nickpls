@@ -16,3 +16,9 @@ key features:
 * counter pick guide: provides analysis and suggestions for the best champion picks based on the enemy team.
 
 in short: a professional analysis tool that lets you know who you’re playing with during champ select and helps boost your chances of winning.
+
+<img width="1600" height="900" alt="{6B30E843-EA4C-420A-9ED9-C3C3F8F7C54A}" src="https://github.com/user-attachments/assets/302be7c1-1456-4479-a26c-e860aae6fb19" />
+
+<img width="1600" height="900" alt="{E3B8CE18-6298-4248-9AA6-AF03AFD94B75}" src="https://github.com/user-attachments/assets/18eb52d0-8115-41f1-81b1-c6066ab50bbc" />
+
+<img width="1600" height="900" alt="{0701B7E6-3771-42F4-8C3B-7461049F30E5}" src="https://github.com/user-attachments/assets/aeb5160b-5569-41df-a487-57b6b10cba91" />
