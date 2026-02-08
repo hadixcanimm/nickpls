@@ -1,6 +1,8 @@
 # nickpls
 nickpls penguloader plugins
 
+THERE IS A RISK OF USE. IF YOUR ACCOUNT GETS BANNED OR RECEIVES A WARNING, YOU ARE ON YOUR OWN!
+
 league of legends champion select screen helper add-on that lets you instantly see your teammates’ stats (even in anonymous ranked queues).
 
 how does it work?
